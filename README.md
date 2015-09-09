@@ -18,3 +18,20 @@ Come to hangout with other cohorts and alumni, practice your algorithm skills ou
 | 10:00 - 12:00 | COMPETE! |
 | 12:00- 12:30 | Judging |
 | 12:30- 1:00 | PRIZES! |
+
+##Rules 
+- Teams can not be larger than 3 people
+- Each team must have at least 2 people from different cohorts
+
+##Scoring
+Prizes will be awarded for: 
+- most points 
+- second most points
+- best algorithm
+- shortest algorithm
+
+##Todos 
+- how to set up project euler accounts 
+- set up judge project euler account 
+- email cohorts
+- team registation setup
