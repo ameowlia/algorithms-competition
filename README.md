@@ -1,4 +1,4 @@
-# Algorithms Competition
+# Algorithms Team Competition
 
 ##Tickets
 [Get your ticket here!](http://www.eventbrite.com/e/algorithm-competition-tickets-18183793215)
