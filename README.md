@@ -14,7 +14,7 @@ Come to hangout with other cohorts and alumni, practice your algorithm skills ou
 |  | |
 |---|---|
 | 9:00 - 9:30 | Breakfast |
-| 9:30 - 10:00 | Intro, Rules, Break Into Teams |
+| 9:30 - 10:00 | [Intro, Rules, Break Into Teams](https://docs.google.com/presentation/d/1APsjPIFvzNHjXkJvmGtBZA2EuiBmNcgMI5zZYOia6vU/edit?usp=sharing) |
 | 10:00 - 12:00 | COMPETE! |
 | 12:00- 12:30 | Judging |
 | 12:30- 1:00 | PRIZES! |
