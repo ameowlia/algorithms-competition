@@ -33,5 +33,3 @@ Prizes will be awarded for:
 ##Todos 
 - how to set up project euler accounts 
 - set up judge project euler account 
-- email cohorts
-- team registation setup
