@@ -42,4 +42,5 @@ One person from every team will have 2 minutes to show off and explain their bes
 ##Prizes
 ![](https://cloud.githubusercontent.com/assets/7025605/9831890/799b1e38-591d-11e5-840a-94f2c14bf8a2.png)
 
-
+##Need Help?
+![](https://cloud.githubusercontent.com/assets/7025605/9831914/88d79cfe-591e-11e5-98d2-7e0de7bc5b23.png)
