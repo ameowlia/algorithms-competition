@@ -13,4 +13,6 @@ Don't forget to add your Project Euler friendship key.
   - Project Euler Friendship Key: 822936_82e41e4c30b7162beebf5b2d131dd4a9
   - [Best Algorithm Gist Link](https://gist.github.com/adowns01/1f3114bbc2c719d9b7f4)
   - [Shortest Algorithm Gist Link](https://gist.github.com/adowns01/1f3114bbc2c719d9b7f4)
-  
+
+  - Members: Hugh Sutton-Gee, Maurice Jeffery, Sarah Alsinan
+  - Project Euler Friendship Key: 842124_WoMAZiJ1jyM1K1InrgZhJ1nM31kFPMEk
