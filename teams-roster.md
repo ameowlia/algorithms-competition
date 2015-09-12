@@ -35,8 +35,8 @@ Don't forget to add your Project Euler friendship key.
 - **jeromechenette**
   - Members:Jerome Chenette, Si Cheng Zhou, Devin Liu
   - Project Euler Friendship Key:842123_MPGr7oh6qL08tJ3A807r9Dlkh4lc20Dg
-  - Shortest: https://gist.github.com/bf52606d650adea61814.git
-  - Best: https://gist.github.com/11925225cd4bc0d25e17.git
+  - Shortest: https://gist.github.com/jeromechenette/11925225cd4bc0d25e17
+  - Best:https://gist.github.com/jeromechenette/11925225cd4bc0d25e17
 
 - **ellismarte**
   - Members: Jose, Ellis, Jsse 
