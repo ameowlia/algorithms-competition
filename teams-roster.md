@@ -18,7 +18,6 @@ Don't forget to add your Project Euler friendship key.
   - Members: Daniela Schiano di Cola, Josh Ullman, Andrew Dowd
   - Friendship Key: 842120_HKZLx1QitGnjZ4y8KvfPSpKSZagubBTK
   - Shortest: https://gist.github.com/joshullman/beb77549466700dfd208
-  - Best: https://gist.github.com/daschi/0a79e79c38f68c8026ed 
 
 - **feynpeople**
   - Members: Hugh Sutton-Gee, Maurice Jeffery, Sarah Alsinan
@@ -26,6 +25,8 @@ Don't forget to add your Project Euler friendship key.
 
 - **tombenphill**
   - Members: Tom Lee, Philip Yoo, Ben Hsieh
+  - [Best Algorithm Gist Link](https://gist.github.com/user512/4ff8759ec947928631e7)
+  - [Shortest Algorithm Gist Link](https://gist.github.com/user512/063d05495f7c406ca7ec)
   - Project Euler Friendship Key: 842121_MBCN9SzfKv0z8AuCZrwWtCp0C5UBrOpX
   
 - **jeromechenette**
