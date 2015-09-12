@@ -19,9 +19,11 @@ Come to hangout with other cohorts and alumni, practice your algorithm skills ou
 | 12:00- 12:30 | Judging |
 | 12:30- 1:00 | PRIZES! |
 
-##Rules 
+##Setting Up Teams
 - Teams can not be larger than 3 people
 - Each team must have at least 2 people from different cohorts
+- Create a team [Project Euler](https://projecteuler.net/) account
+- [Register your team here](https://github.com/adowns01/algorithms-competition/blob/master/teams-roster.md)
 
 ##Scoring
 Prizes will be awarded for: 
