@@ -14,14 +14,15 @@ Don't forget to add your Project Euler friendship key.
   - [Best Algorithm Gist Link](https://gist.github.com/adowns01/1f3114bbc2c719d9b7f4)
   - [Shortest Algorithm Gist Link](https://gist.github.com/adowns01/1f3114bbc2c719d9b7f4)
   
-- Team Oiler
+- **Team Oiler**
   - Members: Daniela Schiano di Cola, Josh Ullman, Andrew Dowd
   - Friendship Key: 842120_HKZLx1QitGnjZ4y8KvfPSpKSZagubBTK
 
-- Members: Hugh Sutton-Gee, Maurice Jeffery, Sarah Alsinan
-- Project Euler Friendship Key: 842124_WoMAZiJ1jyM1K1InrgZhJ1nM31kFPMEk
+- **Un-named Team**
+  - Members: Hugh Sutton-Gee, Maurice Jeffery, Sarah Alsinan
+  - Project Euler Friendship Key: 842124_WoMAZiJ1jyM1K1InrgZhJ1nM31kFPMEk
 
-- Members: Tom Lee, Philip Yoo, Ben Hsieh
+- **Un-named Team 2**
+  - Members: Tom Lee, Philip Yoo, Ben Hsieh
   - Project Euler Friendship Key: 842121_MBCN9SzfKv0z8AuCZrwWtCp0C5UBrOpX
-  - [Best Algorithm Gist Link](https://gist.github.com/adowns01/1f3114bbc2c719d9b7f4)
-  - [Shortest Algorithm Gist Link](https://gist.github.com/adowns01/1f3114bbc2c719d9b7f4)
+
