@@ -25,4 +25,8 @@ Don't forget to add your Project Euler friendship key.
 - **Un-named Team 2**
   - Members: Tom Lee, Philip Yoo, Ben Hsieh
   - Project Euler Friendship Key: 842121_MBCN9SzfKv0z8AuCZrwWtCp0C5UBrOpX
+  - 
+  TEAM LICE!
+  -Members:Jerome Chenette, Si Cheng Zhou, Devin Liu
+  -Project Euler Friendship Key:842123_MPGr7oh6qL08tJ3A807r9Dlkh4lc20Dg
 
