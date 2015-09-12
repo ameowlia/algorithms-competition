@@ -20,3 +20,8 @@ Don't forget to add your Project Euler friendship key.
 
 - Members: Hugh Sutton-Gee, Maurice Jeffery, Sarah Alsinan
 - Project Euler Friendship Key: 842124_WoMAZiJ1jyM1K1InrgZhJ1nM31kFPMEk
+
+- Members: Tom Lee, Philip Yoo, Ben Hsieh
+  - Project Euler Friendship Key: 842121_MBCN9SzfKv0z8AuCZrwWtCp0C5UBrOpX
+  - [Best Algorithm Gist Link](https://gist.github.com/adowns01/1f3114bbc2c719d9b7f4)
+  - [Shortest Algorithm Gist Link](https://gist.github.com/adowns01/1f3114bbc2c719d9b7f4)
