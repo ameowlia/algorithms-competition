@@ -47,6 +47,7 @@ Don't forget to add your Project Euler friendship key.
 - **Dragonturtles**
   - Members: Brian Kennedy, Claire Schlessinger, Alvin Shiu
   - Project Euler Friendship Key: 842119_pYDH7F39j3ZUifHRxE7hAfy8Oj6Nqw47
+  - BEST:  https://gist.github.com/briankennedy1/f6c4a10162a2a79ea26f
   
 - **brenguyen711**
   - Members: Jason Xu, Grant Wong, Brenda Nguyen
