@@ -30,3 +30,6 @@ Don't forget to add your Project Euler friendship key.
   - Members:Jerome Chenette, Si Cheng Zhou, Devin Liu
   - Project Euler Friendship Key:842123_MPGr7oh6qL08tJ3A807r9Dlkh4lc20Dg
 
+**ellismarte**
+  - Members: Jose, Ellis, Jsse 
+  - Project Euler friendship Key: 842122_7IEZC6dJBYsKgPXU712UR1CugvZrcQy6
