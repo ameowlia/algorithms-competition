@@ -17,7 +17,7 @@ Don't forget to add your Project Euler friendship key.
 - **daschi**
   - Members: Daniela Schiano di Cola, Josh Ullman, Andrew Dowd
   - Friendship Key: 842120_HKZLx1QitGnjZ4y8KvfPSpKSZagubBTK
-  - Shortest: https://gist.github.com/beb77549466700dfd208.git
+  - Shortest: https://gist.github.com/joshullman/beb77549466700dfd208
 
 - **feynpeople**
   - Members: Hugh Sutton-Gee, Maurice Jeffery, Sarah Alsinan
