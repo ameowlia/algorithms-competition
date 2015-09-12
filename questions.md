@@ -16,8 +16,11 @@ All of the questions come from [Project Euler](https://projecteuler.net/).
 | Question 10 | 3 |
 | Question 11 | 5 |
 | Question 12 | 5 |
+| Question 13 | 2 |
 | Question 14 | 4 |
 | Question 15 | 5 |
+| Question 16 | 1 |
+| Question 17 | 10 |
 | Question 18 | 5 |
 | Question 67 | 10 |
 | Question 19 | 10 |
