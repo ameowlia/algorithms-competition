@@ -26,3 +26,6 @@ Don't forget to add your Project Euler friendship key.
   - Members: Tom Lee, Philip Yoo, Ben Hsieh
   - Project Euler Friendship Key: 842121_MBCN9SzfKv0z8AuCZrwWtCp0C5UBrOpX
 
+**ellismarte**
+  - Members: Jose, Ellis, Jsse 
+  - Project Euler friendship Key: 842122_7IEZC6dJBYsKgPXU712UR1CugvZrcQy6
