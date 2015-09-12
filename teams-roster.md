@@ -37,6 +37,8 @@ Don't forget to add your Project Euler friendship key.
 - **ellismarte**
   - Members: Jose, Ellis, Jsse 
   - Project Euler friendship Key: 842122_7IEZC6dJBYsKgPXU712UR1CugvZrcQy6
+  - Shortest: https://gist.github.com/JessC/8e7faf25187603538095
+  - Best: https://gist.github.com/ellismarte/36cbf90c039ccd630cf8
    
 - **Dragonturtles**
   - Members: Brian Kennedy, Claire Schlessinger, Alvin Shiu
