@@ -37,7 +37,7 @@ Prizes will be awarded for:
 - shortest algorithm
 
 ##Judging 
-One person from every team will have 2 minutes to show off and explain their best algorithm. Your code will be projected behind you. 
+One person from every team will have 2 minutes to show off and explain their best algorithm. Your code will be projected behind you. At this time your points will be counted by a frantic Amelia.
 
 ##Prizes
 ![](https://cloud.githubusercontent.com/assets/7025605/9831890/799b1e38-591d-11e5-840a-94f2c14bf8a2.png)
