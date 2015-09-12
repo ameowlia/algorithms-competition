@@ -25,6 +25,10 @@ Come to hangout with other cohorts and alumni, practice your algorithm skills ou
 - Create a team [Project Euler](https://projecteuler.net/) account
 - [Register your team here](https://github.com/adowns01/algorithms-competition/blob/master/teams-roster.md)
 
+##Competing 
+[Here](https://github.com/adowns01/algorithms-competition/blob/master/questions.md) is the list of questions for you to answer.
+
+
 ##Scoring
 Prizes will be awarded for: 
 - most points 
