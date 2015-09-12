@@ -17,3 +17,6 @@ Don't forget to add your Project Euler friendship key.
 - Team Oiler
   - Members: Daniela Schiano di Cola, Josh Ullman, Andrew Dowd
   - Friendship Key: 842120_HKZLx1QitGnjZ4y8KvfPSpKSZagubBTK
+
+- Members: Hugh Sutton-Gee, Maurice Jeffery, Sarah Alsinan
+- Project Euler Friendship Key: 842124_WoMAZiJ1jyM1K1InrgZhJ1nM31kFPMEk
