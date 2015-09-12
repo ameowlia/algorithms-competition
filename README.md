@@ -32,6 +32,10 @@ Prizes will be awarded for:
 - best algorithm
 - shortest algorithm
 
-##Todos 
-- how to set up project euler accounts 
-- set up judge project euler account 
+##Judging 
+One person from every team will have 2 minutes to show off and explain their best algorithm. Your code will be projected behind you. 
+
+##Prizes
+![](https://cloud.githubusercontent.com/assets/7025605/9831890/799b1e38-591d-11e5-840a-94f2c14bf8a2.png)
+
+
